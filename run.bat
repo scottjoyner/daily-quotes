@@ -1,0 +1,1 @@
+python3 C:\Users\blksc\git\daily-quotes\main.py
