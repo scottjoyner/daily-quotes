@@ -1,2 +1,13 @@
 cfg.ini
 /notes/*
+
+# Local secrets and potentially sensitive account/export artifacts.
+# Existing tracked copies and Git history still require classification.
+.env
+.env.*
+!.env.example
+Accounts_History.csv
+*.pem
+*.key
+*.p12
+*.pfx
